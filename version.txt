@@ -1,5 +1,2 @@
-
-Version: 2.0 main branch
-Version: 3.0 feature branch
-
-main veesrion before rebase
+Main version before rebase
+Feature version before rebase
